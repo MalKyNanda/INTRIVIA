@@ -15,6 +15,9 @@ pesan: Untuk pelaksanaan ke depannya, saya berharap jangka waktu (deadline) peng
 
 kesan: saya mendapat relasi baru dengan Teknik komputer dengan Teknik informatika dan mendapatkan kakak tingkat yang baik dan bisa di ajak bercanda pesan: menurut saya tidak ada pesan yang harus saya sampaikan, karena semuanya berjalan dengan baik
 
+pesan:
+menurut saya tidak ada pesan yang harus saya sampaikan, karena semuanya berjalan dengan baik
+
 ## Harapan Kuliah
 
 Bisa mendapatkan ilmu dalam semua bahasa pemrograman
