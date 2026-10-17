@@ -11,7 +11,7 @@ kesan: Selama mengikuti kegiatan INTRIVIA, saya mendapatkan banyak sekali pengal
 
 pesan: Untuk pelaksanaan ke depannya, saya berharap jangka waktu (deadline) pengerjaan tugas dapat diberikan lebih longgar, misalnya sekitar dua minggu, agar peserta bisa memberikan hasil pengerjaan yang lebih maksimal. Selain itu, pada sesi evaluasi, diharapkan panitia dapat menyampaikan masukan dengan pendekatan yang lebih tenang tanpa menggunakan nada suara yang keras, sehingga para peserta tidak merasa tertekan atau bosan, melainkan tetap termotivasi untuk menyelesaikan tugasnya dengan baik.
 
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini
+## Kesan Pesan Cluster 11 Sejauh Ini
 
 kesan: saya mendapat relasi baru dengan Teknik komputer dengan Teknik informatika dan mendapatkan kakak tingkat yang baik dan bisa di ajak bercanda pesan: menurut saya tidak ada pesan yang harus saya sampaikan, karena semuanya berjalan dengan baik
 
